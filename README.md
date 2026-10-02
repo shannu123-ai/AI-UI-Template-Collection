@@ -72,3 +72,10 @@ AI-UI-Template-Collection/
 ├── ui-04-ai-recommendation/
 ├── ui-05-ai-dashboard/
 └── README.md
+
+## How to Run
+
+1. Clone the repository.
+2. Open the required UI template folder.
+3. Open `index.html` in a modern web browser.
+4. Interact with the UI.
